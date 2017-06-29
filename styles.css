@@ -1,7 +1,15 @@
 h1 {
     text-align: center;
+    color: orange;
+    text-shadow: 2px 2px #ff0000;
 }
 
 ul {
+    color: red;
+    font: sans-serif;
     
+}
+
+html {
+    background-color: yellow;
 }
